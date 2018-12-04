@@ -1,0 +1,9 @@
+/* button to make a reaction */
+.action-dock__button--react {
+    display: none;
+}
+
+/* disable the specific elements to keep flex divs */
+.reactions-display__emojis, .reactions-display__names {
+    display: none;
+}
